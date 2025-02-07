@@ -5,3 +5,4 @@ L2
 R3
 -
 LR4
+binary-h0 퇴근!
